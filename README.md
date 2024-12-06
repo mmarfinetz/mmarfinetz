@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmarfinetz
-- 👀 I’m interested in: Cryptocurrency, Web3
-- 🌱 I’m currently learning: Blockchain Development, Deep Learning
+- 👀 I’m interested in: Cryptocurrency, Web3, Deep Learning, MEV, LLM's
+- 🌱 I’m currently learning: Blockchain Development, Solidity + Smart Contracts
 - 💞️ I’m looking to collaborate on: Web3 projects
 - 📫 How to reach me: mitchmarfinetz@gmail.com
 

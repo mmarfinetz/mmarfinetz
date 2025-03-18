@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @mmarfinetz
 
 ### About Me
-I'm a blockchain developer and AI enthusiast focused on the intersection of cryptocurrency and artificial intelligence, particularly in DeFi applications. I'm passionate about building innovative solutions that bridge these cutting-edge technologies.
+I'm a developer focused on the intersection of cryptocurrency and artificial intelligence, particularly in DeFi applications. I'm passionate about building innovative solutions that bridge these cutting-edge technologies.
 
 ### 👀 I'm interested in
 - Cryptocurrency & DeFi

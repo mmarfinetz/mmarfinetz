@@ -3,12 +3,6 @@
 ### About Me
 I'm a blockchain developer and AI enthusiast focused on the intersection of cryptocurrency and artificial intelligence, particularly in DeFi applications. I'm passionate about building innovative solutions that bridge these cutting-edge technologies.
 
-### 🚀 Recent Achievements
-- Core Contributor to ElizaOS - Developed and implemented the official arbitrage plugin (v1.9)
-  - Real-time market monitoring across DEXs
-  - MEV-protected transactions via Flashbots integration
-  - Automated arbitrage opportunity detection
-
 ### 👀 I'm interested in
 - Cryptocurrency & DeFi
 - Web3 Development

@@ -1,5 +1,15 @@
 # 👋 Hi, I'm @mmarfinetz
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmarfinetz&show_icons=true&theme=default&hide=issues&count_private=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarfinetz&layout=compact&langs_count=8&theme=default" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmarfinetz&theme=default" />
+</div>
+
 ### About Me
 I'm a developer focused on the intersection of cryptocurrency and artificial intelligence, particularly in DeFi applications. I'm passionate about building innovative solutions that bridge these technologies.
 
@@ -20,16 +30,6 @@ I'm a developer focused on the intersection of cryptocurrency and artificial int
 - DeFi Protocol Development
 - AI-Enhanced Trading Systems
 - Cross-chain Solutions
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmarfinetz&show_icons=true&theme=default&hide=issues&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarfinetz&layout=compact&langs_count=8&theme=default" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmarfinetz&theme=default" />
-</div>
 
 ### 📫 How to Reach Me
 - Email: mitchmarfinetz@gmail.com

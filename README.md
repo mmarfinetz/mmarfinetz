@@ -10,6 +10,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmarfinetz&theme=default" />
 </div>
 
+<img src="https://github-profile-trophy.vercel.app/?username=mmarfinetz&theme=flat&no-frame=true&column=7" />
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mmarfinetz&theme=github" />
+
+<img src="https://komarev.com/ghpvc/?username=mmarfinetz&style=flat-square&color=blue" />
+
 ### About Me
 I'm a developer focused on the intersection of cryptocurrency and artificial intelligence, particularly in DeFi applications. I'm passionate about building innovative solutions that bridge these technologies.
 

@@ -12,7 +12,12 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=mmarfinetz&theme=flat&no-frame=true&column=7" />
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mmarfinetz&theme=github" />
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmarfinetz&theme=github" />
+</div>
+
 
 <img src="https://komarev.com/ghpvc/?username=mmarfinetz&style=flat-square&color=blue" />
 

@@ -83,10 +83,10 @@ I'm a developer passionate about the convergence of **cryptocurrency** and **art
 
 ```mermaid
 graph LR
-    A[Advanced Solidity] --> B[ZK Proofs]
-    B --> C[Cross-Chain Messaging]
-    C --> D[AI/ML in Web3]
-    D --> E[Protocol Optimization]
+    A[Neural Networks] --> B[Transformer Architecture]
+    B --> C[LLM Fine-tuning]
+    C --> D[RAG Systems]
+    D --> E[AI Agents & Smart Contracts]
 ```
 
 ### 🤝 Open to Collaborate On

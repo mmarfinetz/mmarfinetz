@@ -43,8 +43,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co)
-![Genetic Algorithms](https://img.shields.io/badge/Evolutionary%20Algorithms-6A5ACD?style=for-the-badge)
-![Markov Models](https://img.shields.io/badge/Markov%20Models-5B8C85?style=for-the-badge)
+
 
 **Data**
 
@@ -66,6 +65,6 @@
 ---
 
 ## Contact
-**Email:** mitchmarfinetz@gmail.com · **GitHub:** https://github.com/mmarfinetz · **X/Twitter:** https://twitter.com/mmarfinetz7 **Telegram:**https://t.me/mitch0x
+**Email:** mitchmarfinetz@gmail.com · **GitHub:** https://github.com/mmarfinetz · **X/Twitter:** https://twitter.com/mmarfinetz7 **Telegram:** https://t.me/mitch0x
 
 

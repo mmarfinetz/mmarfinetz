@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @mmarfinetz
 
-**Interests:** DeFi; building with LLMs; systems that learn via evolution and adaptation (genetic algorithms, Markov chains) with applications to algorithmic trading and agent-based decision systems.
+**Interests:** DeFi; building with LLMs; systems that learn via evolution and adaptation with applications to algorithmic trading and agent-based decision systems.
 
 ---
 

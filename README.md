@@ -1,5 +1,5 @@
 # 👋 Hi, I'm @mmarfinetz
-# Mitchell Marfinetz
+
 
 Building at the intersection of **DeFi** and **LLMs** — focused on architecture optimization, fine-tuning, and agentic systems.
 
@@ -37,6 +37,6 @@ Building at the intersection of **DeFi** and **LLMs** — focused on architectur
 ---
 
 ## Contact
-**Email:** mitchmarfinetz@gmail.com · **GitHub:** https://github.com/mmarfinetz · **X/Twitter:** https://twitter.com/mmarfinetz
+**Email:** mitchmarfinetz@gmail.com · **GitHub:** https://github.com/mmarfinetz · **X/Twitter:** https://twitter.com/mmarfinetz7 **Telegram:**https://t.me/mitch0x
 
 

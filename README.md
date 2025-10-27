@@ -19,6 +19,9 @@
 - **Tetris AI** — Genetic algorithms + Markov-chain learning for gameplay  
   Repo: https://github.com/mmarfinetz/Tetris
 
+- [![arXiv](https://img.shields.io/badge/arXiv-2510.21647-b31b1b.svg)](https://arxiv.org/abs/2510.21647)
+
+
 ---
 
 ## Languages

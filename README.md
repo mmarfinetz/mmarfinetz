@@ -73,6 +73,6 @@
 ---
 
 ## Contact
-**Email:** mitchmarfinetz@gmail.com · **GitHub:** https://github.com/mmarfinetz · **X/Twitter:** https://twitter.com/mmarfinetz7 **Telegram:** https://t.me/mitch0x
+**Email:** mitchmar@sas.upenn.edu · **GitHub:** https://github.com/mmarfinetz · **X/Twitter:** https://twitter.com/mmarfinetz7 **Telegram:** https://t.me/mitch0x
 
 

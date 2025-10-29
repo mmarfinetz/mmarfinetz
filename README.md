@@ -18,7 +18,7 @@
   Advanced signals/strategies and recommendations (mean reversion, RSI, Bollinger %B, Z-score).  
   Repo: https://github.com/mmarfinetz/VinRouge
 
-- **MEV Arbitrage Bot**  
+- **Arbitrage Bot**  
   TypeScript/Hardhat bot that discovers and executes arbitrage via **Flashbots** (regular, MEV-Share, WebSocket, hybrid). React dashboard, gas/circuit-breaker logic.  
   Repo: https://github.com/mmarfinetz/arbitrage-bot
 

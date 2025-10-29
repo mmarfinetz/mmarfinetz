@@ -2,6 +2,15 @@
 
 **Interests:** DeFi; building with LLMs; systems that learn via evolution and adaptation with applications to algorithmic trading and agent-based decision systems.
 
+## Publications
+
+**Hybrid Genetic Algorithm for Optimal User Order Routing: Multi‑Objective Solver Optimization in CoW Protocol Batch Auctions**  
+[![arXiv](https://img.shields.io/badge/arXiv-2510.21647-b31b1b.svg)](https://arxiv.org/abs/2510.21647)
+[![PDF](https://img.shields.io/badge/PDF-download-informational.svg)](https://arxiv.org/pdf/2510.21647.pdf)
+[![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2510.21647-blue.svg)](https://doi.org/10.48550/arXiv.2510.21647)
+
+**TL;DR.** Multi‑objective evolutionary solver (NSGA‑II hybrid) for CoW Protocol batch auctions that balances user surplus, gas, slippage and risk under tight deadlines; outperforms deterministic baselines on small–medium orders and converges within ~0.5s median.
+
 ---
 
 ## Selected Work
@@ -18,9 +27,6 @@
 
 - **Tetris AI** — Genetic algorithms + Markov-chain learning for gameplay  
   Repo: https://github.com/mmarfinetz/Tetris
-
-- [![arXiv](https://img.shields.io/badge/arXiv-2510.21647-b31b1b.svg)](https://arxiv.org/abs/2510.21647)
-
 
 ---
 

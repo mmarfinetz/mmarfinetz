@@ -4,6 +4,13 @@
 
 ## Publications
 
+**Evolving Deep Learning Optimizers**  
+[![arXiv](https://img.shields.io/badge/arXiv-2512.11853-b31b1b.svg)](https://arxiv.org/abs/2512.11853)
+[![PDF](https://img.shields.io/badge/PDF-download-informational.svg)](https://arxiv.org/pdf/2512.11853.pdf)
+[![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2512.11853-blue.svg)](https://doi.org/10.48550/arXiv.2512.11853)
+
+**TL;DR.** Evolutionary framework that discovers novel deep learning optimizers by combining primitive gradient operators; produces hybrid update rules that outperform AdamW in low-data regimes.
+
 **Hybrid Genetic Algorithm for Optimal User Order Routing: Multi‑Objective Solver Optimization in CoW Protocol Batch Auctions**  
 [![arXiv](https://img.shields.io/badge/arXiv-2510.21647-b31b1b.svg)](https://arxiv.org/abs/2510.21647)
 [![PDF](https://img.shields.io/badge/PDF-download-informational.svg)](https://arxiv.org/pdf/2510.21647.pdf)
@@ -61,9 +68,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co)
-
-**Data**
-
 [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 

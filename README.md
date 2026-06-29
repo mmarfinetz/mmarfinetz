@@ -2,7 +2,15 @@
 
 **Interests:** DeFi; building with LLMs; systems that learn via evolution and adaptation with applications to algorithmic trading and agent-based decision systems.
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=z_h9RsoAAAAJ&hl=en)
+
 ## Publications
+
+**Oracle-Anchored LVR Recapture with Selective Dutch Auctions**  
+[![SSRN](https://img.shields.io/badge/SSRN-6834278-blue.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6834278)
+[![PDF](https://img.shields.io/badge/PDF-download-informational.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6834278)
+
+**TL;DR.** AMM design for recapturing loss-versus-rebalancing by anchoring pool prices to an oracle and selectively routing arbitrage through Dutch auctions, improving LP outcomes while preserving efficient price discovery.
 
 **Evolving Deep Learning Optimizers**  
 [![arXiv](https://img.shields.io/badge/arXiv-2512.11853-b31b1b.svg)](https://arxiv.org/abs/2512.11853)
@@ -16,32 +24,32 @@
 [![PDF](https://img.shields.io/badge/PDF-download-informational.svg)](https://arxiv.org/pdf/2510.21647.pdf)
 [![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2510.21647-blue.svg)](https://doi.org/10.48550/arXiv.2510.21647)
 
-**TL;DR.** Multi‑objective evolutionary solver (NSGA‑II hybrid) for CoW Protocol batch auctions that balances user surplus, gas, slippage and risk under tight deadlines; outperforms deterministic baselines on small–medium orders and converges within ~0.5s median.
+**TL;DR.** Multi-objective evolutionary solver (NSGA-II hybrid) for CoW Protocol batch auctions that balances user surplus, gas, slippage and risk under tight deadlines; outperforms deterministic baselines on small-medium orders and converges within ~0.5s median.
 
 ---
 
 ## Selected Work
 
 - **Alpha Router — Evolutionary solver**  
-  Implementation of my published hybrid genetic algorithm (NSGA-II + deterministic refinement) for CoW Protocol batch auctions. Handles multi-objective optimization (surplus, gas, slippage, risk) under tight latency constraints; deployed as a production-ready routing engine.  
+  Implementation of my published hybrid genetic algorithm (NSGA-II + deterministic refinement) for CoW Protocol batch auctions. Handles multi-objective optimization, including surplus, gas, slippage, and risk, under tight latency constraints; deployed as a production-ready routing engine.  
   Repo: https://github.com/mmarfinetz/Alpha-Router
 
 - **evo-optimizer — Evolutionary optimizer discovery for ML**  
-  PyTorch framework that evolves new update rules by combining primitive gradient operators (sign-grad, momentum, normalization terms). Produces hybrid optimizers that outperform AdamW in low-data regimes and accelerate convergence across CIFAR-10, MNIST, and Fashion-MNIST.  
+  PyTorch framework that evolves new update rules by combining primitive gradient operators, including sign-grad, momentum, and normalization terms. Produces hybrid optimizers that outperform AdamW in low-data regimes and accelerate convergence across CIFAR-10, MNIST, and Fashion-MNIST.  
   Repo: https://github.com/mmarfinetz/evo-optimizer
 
 - **VinRouge — On-chain trading agent**  
-  Advanced signals/strategies and recommendations (mean reversion, RSI, Bollinger %B, Z-score).  
+  Advanced signals, strategies, and recommendations, including mean reversion, RSI, Bollinger %B, and Z-score.  
   Repo: https://github.com/mmarfinetz/VinRouge
 
 - **Arbitrage Bot**  
-  TypeScript/Hardhat bot that discovers and executes arbitrage via Flashbots (regular, MEV-Share, WebSocket, hybrid). React dashboard, gas/circuit-breaker logic.  
+  TypeScript/Hardhat bot that discovers and executes arbitrage via Flashbots, including regular, MEV-Share, WebSocket, and hybrid modes. React dashboard, gas logic, and circuit-breaker protections.  
   Repo: https://github.com/mmarfinetz/arbitrage-bot
 
-- **ElizaOS (agent framework) — Contributions**  
+- **ElizaOS — Agent framework contributions**  
   PRs: [#2869](https://github.com/elizaOS/eliza/pull/2869) · [#2784](https://github.com/elizaOS/eliza/pull/2784)
 
-- **Tetris AI** — Genetic algorithms + Markov-chain learning for gameplay  
+- **Tetris AI — Genetic algorithms + Markov-chain learning for gameplay**  
   Repo: https://github.com/mmarfinetz/Tetris
 
 ---
@@ -55,7 +63,7 @@
 ## Tech Stack
 
 **Blockchain**
-  
+
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org)
 [![Arbitrum](https://img.shields.io/badge/Arbitrum-2D374B?style=for-the-badge&logo=arbitrum&logoColor=white)](https://arbitrum.io)
 [![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=000)](https://hardhat.org)

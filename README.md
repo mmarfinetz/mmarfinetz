@@ -11,7 +11,7 @@
 
 **TL;DR.** Evolutionary framework that discovers novel deep learning optimizers by combining primitive gradient operators; produces hybrid update rules that outperform AdamW in low-data regimes.
 
-**Hybrid Genetic Algorithm for Optimal User Order Routing: Multi‑Objective Solver Optimization in CoW Protocol Batch Auctions**  
+**Genetic Algorithm for Optimal User Order Routing**  
 [![arXiv](https://img.shields.io/badge/arXiv-2510.21647-b31b1b.svg)](https://arxiv.org/abs/2510.21647)
 [![PDF](https://img.shields.io/badge/PDF-download-informational.svg)](https://arxiv.org/pdf/2510.21647.pdf)
 [![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2510.21647-blue.svg)](https://doi.org/10.48550/arXiv.2510.21647)

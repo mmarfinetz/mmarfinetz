@@ -6,6 +6,12 @@
 
 ## Publications
 
+**Ecological Partner-Condition Coupling From Shared Resource Regeneration in Minimal Agents**  
+[![SSRN](https://img.shields.io/badge/SSRN-6966280-blue.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966280)
+[![PDF](https://img.shields.io/badge/PDF-download-informational.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966280)
+
+**TL;DR.** Multi-agent reinforcement learning study showing that shared resource regeneration can produce partner-sensitive policies without agents observing partner energy or receiving explicit rewards for helping.
+
 **Oracle-Anchored LVR Recapture with Selective Dutch Auctions**  
 [![SSRN](https://img.shields.io/badge/SSRN-6834278-blue.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6834278)
 [![PDF](https://img.shields.io/badge/PDF-download-informational.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6834278)
